@@ -16,7 +16,7 @@ This project was done purely for **educational and practice** purposes, as part 
 
 The core logic and structure of this project are based on the excellent tutorial by *Python Engineer* on YouTube:
 
-🔗 [AI Learns to Play Snake using Deep Q-Learning (PyTorch)](https://www.youtube.com/watch?v=L8ypSXwyBds)
+🔗 [AI Learns to Play Snake using Reinforcement Learning (PyTorch)](https://www.youtube.com/watch?v=L8ypSXwyBds)
 
 This repository follows the tutorial with minor customizations for learning and experimentation.
 
